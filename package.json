@@ -1,0 +1,11 @@
+{
+  "name": "duesseldorf-appointment-watch",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node watch-slots.mjs"
+  },
+  "dependencies": {
+    "playwright": "^1.56.0"
+  }
+}
